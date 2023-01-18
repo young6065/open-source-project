@@ -68,3 +68,21 @@ Socket.io를 이용하여 실시간 양방향 통신 기능을 구현해볼생�
 > 회원가입 화면입니다
 
 ![image](https://user-images.githubusercontent.com/101784840/213260007-46dea7c9-af55-4676-ad76-8f08668fcf3e.png)
+
+### 이메일 인증
+> 최초1회 이메일 인증 화면입니다
+
+![image](https://user-images.githubusercontent.com/101784840/213260482-d3f86907-5fa7-4282-ad49-e82f0fd1416f.png)
+![image](https://user-images.githubusercontent.com/101784840/213260502-ddf0b5a2-e93e-4efe-aeeb-a61d46d4198e.png)
+
+### 로그인
+> 로그인 화면입니다
+
+![image](https://user-images.githubusercontent.com/101784840/213260612-3b168f6d-ff5a-4389-b7e9-3baf869b566e.png)
+
+### 지문인식
+> 지문인식 화면입니다
+
+![image](https://user-images.githubusercontent.com/101784840/213260682-b60dc0c9-1722-4078-af7b-2e441c6c72ab.png) ![image](https://user-images.githubusercontent.com/101784840/213260737-2aa59c3a-3e3c-4cef-b059-a7c06eb3f250.png)
+
+
