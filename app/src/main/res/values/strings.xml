@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CARD_Project</string>
+    <string name="request_permission">This sample needs camera permission</string>
+    <string name="camera_error">This device doesn\'t support Camera API.</string>
+    <string name="please_grant_permission" />
+    <string name="emailauth1">회원가입 시 최초 1회 이메일 인증</string>
+    <string name="emailauth2">   ※ 이메일 인증이 확인되지않으면 이후 로그인에 제한될 수 있습니다. </string>
+    <string name="emailauth3">   ※ 입력하신 이메일에서 인증을 진행해주시기 바랍니다.</string>
+    <string name="ok">확인</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="auth_error_message" />
+    <string name="auth_success_message" />
+    <string name="auth_fail_message" />
+</resources>

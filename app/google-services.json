@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80161834081",
+    "project_id": "card-c8080",
+    "storage_bucket": "card-c8080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80161834081:android:abe578018bebc3c8549620",
+        "android_client_info": {
+          "package_name": "com.example.card_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80161834081-lmcgfft07rphugsvppit42pnluc863g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltO5icDfSirWqmcUWwJg372pamRu4RGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80161834081-lmcgfft07rphugsvppit42pnluc863g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
