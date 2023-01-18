@@ -36,7 +36,7 @@ Socket.io를 이용하여 실시간 양방향 통신 기능을 구현해볼생�
 Ⅱ) 프로젝트 사용해보기
 Ⅲ) 주요 기능
 Ⅳ) UI/UX
-Ⅴ) 프로젝트 구현 기술
+Ⅴ) 소감
 
 # Ⅰ) 기술 스택
 ### 사용언어
@@ -64,25 +64,48 @@ Socket.io를 이용하여 실시간 양방향 통신 기능을 구현해볼생�
 - 법률안내 화면 -> 모바일 신분증에 관련한 중요한 법조항을 한눈에 볼수있게 만들어 보았습니다.
 
 # Ⅳ) UI/UX
-### 회원가입
+### 1.회원가입
 > 회원가입 화면입니다
 
 ![image](https://user-images.githubusercontent.com/101784840/213260007-46dea7c9-af55-4676-ad76-8f08668fcf3e.png)
 
-### 이메일 인증
+### 2.이메일 인증
 > 최초1회 이메일 인증 화면입니다
 
 ![image](https://user-images.githubusercontent.com/101784840/213260482-d3f86907-5fa7-4282-ad49-e82f0fd1416f.png)
 ![image](https://user-images.githubusercontent.com/101784840/213260502-ddf0b5a2-e93e-4efe-aeeb-a61d46d4198e.png)
 
-### 로그인
+### 3.로그인
 > 로그인 화면입니다
 
 ![image](https://user-images.githubusercontent.com/101784840/213260612-3b168f6d-ff5a-4389-b7e9-3baf869b566e.png)
 
-### 지문인식
+### 4.지문인식
 > 지문인식 화면입니다
 
 ![image](https://user-images.githubusercontent.com/101784840/213260682-b60dc0c9-1722-4078-af7b-2e441c6c72ab.png) ![image](https://user-images.githubusercontent.com/101784840/213260737-2aa59c3a-3e3c-4cef-b059-a7c06eb3f250.png)
+
+### 5.개인정보 등록
+> 정보 등록 화면입니다
+
+![image](https://user-images.githubusercontent.com/101784840/213261074-5f03ad22-3944-4f12-84b7-7072c16b2764.png) ![image](https://user-images.githubusercontent.com/101784840/213261086-d94adb6f-5da4-419e-8c54-4a67ee1696dc.png)
+
+### 6.개인정보 등록
+> 법률 화면입니다
+
+![image](https://user-images.githubusercontent.com/101784840/213261180-0b26d275-3bbd-4737-80cc-98b40a1b75cb.png) ![image](https://user-images.githubusercontent.com/101784840/213261191-c800a9d1-f5f4-4b12-a4b2-e52ca0c0326b.png)
+
+
+### 7.시연 영상
+> 시연 영상 입니다
+
+https://user-images.githubusercontent.com/101784840/213261329-01dddc06-69cf-465c-9b8f-218654b033f2.mp4
+
+# Ⅴ) 소감
+이번 오픈소스 소프트웨어 프로젝트에서 짧지만 정말 많은걸 배울수 있었던 시간인였던 것 같습니다
+처음엔 무엇가를 만들어야 한다는 생각에 정말 머리가 아프고 무섭고 어떻게 해야할지 몰랐지만 하나하나 배우고 접하면서
+코딩에 재미도 나름 붙였던 좋은 시간이였던것 같습니다
+이제 졸업좀 합시다...
+
 
 
