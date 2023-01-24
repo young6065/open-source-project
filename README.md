@@ -101,7 +101,7 @@ ___
 
 ![image](https://user-images.githubusercontent.com/101784840/213261074-5f03ad22-3944-4f12-84b7-7072c16b2764.png)  ![image](https://user-images.githubusercontent.com/101784840/213261086-d94adb6f-5da4-419e-8c54-4a67ee1696dc.png)
 
-### 6.개인정보 등록
+### 6.법률확인
 > 법률 화면입니다.
 
 ![image](https://user-images.githubusercontent.com/101784840/213261180-0b26d275-3bbd-4737-80cc-98b40a1b75cb.png)  ![image](https://user-images.githubusercontent.com/101784840/213261191-c800a9d1-f5f4-4b12-a4b2-e52ca0c0326b.png)
